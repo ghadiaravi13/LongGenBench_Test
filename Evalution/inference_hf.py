@@ -23,6 +23,7 @@ def parse_args():
     parser.add_argument("--gumbel", "-gbl", action='store_true', help="use gumbel softmax")
     parser.add_argument("--no_hopf", action='store_true', help="Disable HopFormer")  # Updated line
     parser.add_argument("--save_wts", action='store_true', help="Save attn wts")  # Updated line
+    parser.add_argument("--num_samples", "-ns", type=int, default=10, help="Num of samples to eval on")
 
     parser.add_argument('--max_length', type=int, default=8000, help='Maximum length of generation.')
     parser.add_argument('--gpu', type=int, default=1, help='Number of GPUs to use.')
@@ -119,15 +120,15 @@ model = AutoModelForCausalLM.from_pretrained(model_path,
 results = []
 
 os.makedirs(f"preds/{model_name}", exist_ok=True)
-fout = open(f"preds/{model_name}/preds_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
+fout = open(f"preds/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
 
-logfile = f"preds/{model_name}/preds_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
+logfile = f"preds/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
 logging.basicConfig(filename=logfile,
                     level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     force=True)
 
-for input_data in tqdm(inputs[:10]):
+for input_data in tqdm(inputs[:args.num_samples]):
     prompt = input_data['prompt']
     input = tokenizer(prompt, truncation=False, return_tensors="pt").to(device)
     context_length = input.input_ids.shape[-1]
