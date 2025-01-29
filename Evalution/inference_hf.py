@@ -117,32 +117,46 @@ model = AutoModelForCausalLM.from_pretrained(model_path,
                                             torch_dtype=torch.bfloat16,
                                             cache_dir=cache_dir).to(device)
 
+inputs_used = []
 results = []
 
-os.makedirs(f"preds/{model_name}", exist_ok=True)
-fout = open(f"preds/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
+os.makedirs(f"preds_greedy/{model_name}", exist_ok=True)
+fout = open(f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
 
-logfile = f"preds/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
+logfile = f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
 logging.basicConfig(filename=logfile,
                     level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     force=True)
 
-for input_data in tqdm(inputs[:args.num_samples]):
-    prompt = input_data['prompt']
-    input = tokenizer(prompt, truncation=False, return_tensors="pt").to(device)
-    context_length = input.input_ids.shape[-1]
-    start_time = time.time()
-    output = model.generate(**input, max_new_tokens=args.max_length, do_sample=True, temperature=0.95, top_p=0.95)
-    inference_time = time.time() - start_time
-    
-    print(f"Inference time: {inference_time:.2f} seconds")
-    # import pdb; pdb.set_trace()
-    input_data['response'] = tokenizer.decode(output[0][context_length:], skip_special_tokens=True)
-    fout.write(json.dumps(input_data, ensure_ascii=False)+'\n')
-    fout.flush()
-    
-    results.append(process_output( input_data['prefix']+ input_data['response']))
+num_week = 0 ; num_floor = 0; num_menu = 0; num_block = 0;
+for input_data in tqdm(inputs):
+    if input_data['type']=="Week" and num_week>=args.num_samples or \
+       input_data['type']=="Floor" and num_floor>=args.num_samples or \
+       input_data['type']=="Menu Week" and num_menu>=args.num_samples or \
+       input_data['type']=="Block" and num_block>=args.num_samples :
+        continue
+    else:
+        if input_data['type']=="Week": num_week+=1
+        elif input_data['type']=="Floor": num_floor+=1
+        elif input_data['type']=="Menu Week": num_menu+=1
+        elif input_data['type']=="Block": num_block+=1
 
-process_and_save_results(inputs, results, args.output_file)
+        prompt = input_data['prompt']
+        input = tokenizer(prompt, truncation=False, return_tensors="pt").to(device)
+        context_length = input.input_ids.shape[-1]
+        start_time = time.time()
+        output = model.generate(**input, max_new_tokens=args.max_length, do_sample=False, num_beams=1)
+        inference_time = time.time() - start_time
+        
+        print(f"Inference time: {inference_time:.2f} seconds")
+        # import pdb; pdb.set_trace()
+        input_data['response'] = tokenizer.decode(output[0][context_length:], skip_special_tokens=True)
+        fout.write(json.dumps(input_data, ensure_ascii=False)+'\n')
+        fout.flush()
+        
+        inputs_used.append(input_data)
+        results.append(process_output( input_data['prefix']+ input_data['response']))
+
+process_and_save_results(inputs_used, results, args.output_file)
 print(f"\nSaved result to {args.output_file}")
