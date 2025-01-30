@@ -14,3 +14,5 @@
 
 2025-01-29 22:43:52,190 - INFO - ........Input size: 510 KV Cache size: {'key': 4201, 'value': 4201, 'attn_wts': 1, 'len': 4846}...........GPU Max Reserved: 16.089350144 GB
 
+2025-01-29 22:48:47,888 - INFO - ........Input size: 502 KV Cache size: {'key': 4201, 'value': 4201, 'attn_wts': 1, 'len': 5662}...........GPU Max Reserved: 16.089350144 GB
+
