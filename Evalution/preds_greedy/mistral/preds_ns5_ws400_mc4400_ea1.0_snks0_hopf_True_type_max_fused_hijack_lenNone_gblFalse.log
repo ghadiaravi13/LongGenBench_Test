@@ -1,0 +1,2 @@
+2025-02-07 18:17:17,517 - INFO - ........Input size: 683 KV Cache size: {'key': 10000000, 'value': 10000000, 'query': 10000000, 'attn_wts': 10000000, 'len': 8682}...........GPU Max Reserved: 98.381594624 GB
+

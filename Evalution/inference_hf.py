@@ -5,8 +5,13 @@ import json
 # from vllm import LLM, SamplingParams
 import torch
 from transformers import AutoModelForCausalLM, AutoConfig, AutoTokenizer
+import transformers
 import os
 from tqdm import tqdm
+
+import sys
+sys.path.append("/work/10198/ghadiaravi13/vista/HopFormer/MorphKV/")
+from llama_hijack_morphkv import hijack_forward
 
 os.environ['HF_HOME'] = "/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache"
 cache_dir = "/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache/"
@@ -17,6 +22,7 @@ def parse_args():
     parser.add_argument('--hopf_type', type=str, default="max_fused")
     parser.add_argument('--len', "-l", type=int, default=None)
     parser.add_argument("--window_size", "-ws", type=int, default=3, help="Window size for HopFormer")
+    parser.add_argument("--max_capacity", "-mc", type=int, default=100, help="Window size for HopFormer")
     parser.add_argument("--exhale_after", "-ea", type=float, default=1.0, help="Exhale after exceeding this times the KV limit")
     parser.add_argument("--sim_threshold", "-st", type=float, default=20.0, help="Similarity threshold for HopFormer")
     parser.add_argument("--num_attn_sinks", "-snks", type=float, default=0, help="Attention sinks (streaming LLM)")
@@ -24,6 +30,7 @@ def parse_args():
     parser.add_argument("--no_hopf", action='store_true', help="Disable HopFormer")  # Updated line
     parser.add_argument("--save_wts", action='store_true', help="Save attn wts")  # Updated line
     parser.add_argument("--num_samples", "-ns", type=int, default=10, help="Num of samples to eval on")
+    parser.add_argument("--hijack", action='store_true', help="Hijack Flash Attn with MorphKV")  # Updated line
 
     parser.add_argument('--max_length', type=int, default=8000, help='Maximum length of generation.')
     parser.add_argument('--gpu', type=int, default=1, help='Number of GPUs to use.')
@@ -98,13 +105,14 @@ config.hopformer = None if args.no_hopf or args.hopf_type=="snapkv" else {
     'softmax': 'gumbel' if args.gumbel else 'normal',
     'num_attn_sinks': int(args.num_attn_sinks),
     'hopf_type': args.hopf_type,
-    'exhale_after': args.exhale_after
+    'exhale_after': args.exhale_after,
+    'max_capacity': args.max_capacity
 }
 print(f"Hopformer is: {config.hopformer}")
 if args.hopf_type=="snapkv":
     config.snapkv = True
     config.window_size = args.window_size
-    config.max_capacity_prompt = args.sim_threshold
+    config.max_capacity_prompt = args.max_capacity
     config.kernel_size = 5
     config.pooling = "avgpool"
 else:
@@ -112,6 +120,10 @@ else:
 
 # Load the model with the custom configuration
 device = torch.device(f'cuda')
+if args.hijack and "llama" in args.model.lower():
+    print("Hijacked Llama FlashAttn using MorphKV!!!\n")
+    transformers.models.llama.modeling_llama.LlamaFlashAttention2.forward = hijack_forward
+    
 model = AutoModelForCausalLM.from_pretrained(model_path,
                                             config=config,
                                             torch_dtype=torch.bfloat16,
@@ -121,9 +133,9 @@ inputs_used = []
 results = []
 
 os.makedirs(f"preds_greedy/{model_name}", exist_ok=True)
-fout = open(f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
+fout = open(f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_mc{args.max_capacity}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
 
-logfile = f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_st{args.sim_threshold}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
+logfile = f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_mc{args.max_capacity}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
 logging.basicConfig(filename=logfile,
                     level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
