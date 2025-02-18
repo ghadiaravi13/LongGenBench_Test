@@ -36,6 +36,7 @@ def parse_args():
     parser.add_argument('--gpu', type=int, default=1, help='Number of GPUs to use.')
     parser.add_argument('--output_file', type=str, required=True, help='Output file path.')
     parser.add_argument('--input_file', type=str, required=True, help='input file path.')
+    parser.add_argument('--preds_path', default="preds_greedy", type=str, required=True, help='preds file path.')
 
   
     args = parser.parse_args()
@@ -99,7 +100,7 @@ config = AutoConfig.from_pretrained(model_path, cache_dir=cache_dir)
 config._attn_implementation = "flash_attention_2"
 if args.hopf_type=='indp':
     assert args.window_size==1, "Window size > 1 is not supported for independent Hopformer. Try 'max_fused' instead"
-config.hopformer = None if args.no_hopf or args.hopf_type=="snapkv" else {
+config.hopformer = None if args.no_hopf or "snapkv" in args.hopf_type else {
     'window_size': int(args.window_size),
     'sim_threshold': int(args.sim_threshold),
     'softmax': 'gumbel' if args.gumbel else 'normal',
@@ -109,7 +110,7 @@ config.hopformer = None if args.no_hopf or args.hopf_type=="snapkv" else {
     'max_capacity': args.max_capacity
 }
 print(f"Hopformer is: {config.hopformer}")
-if args.hopf_type=="snapkv":
+if "snapkv" in args.hopf_type:
     config.snapkv = True
     config.window_size = args.window_size
     config.max_capacity_prompt = args.max_capacity
@@ -132,10 +133,10 @@ model = AutoModelForCausalLM.from_pretrained(model_path,
 inputs_used = []
 results = []
 
-os.makedirs(f"preds_greedy/{model_name}", exist_ok=True)
-fout = open(f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_mc{args.max_capacity}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
+os.makedirs(f"{args.preds_path}/{model_name}", exist_ok=True)
+fout = open(f"{args.preds_path}/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_mc{args.max_capacity}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.jsonl", 'w', encoding='utf-8')
 
-logfile = f"preds_greedy/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_mc{args.max_capacity}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
+logfile = f"{args.preds_path}/{model_name}/preds_ns{args.num_samples}_ws{args.window_size}_mc{args.max_capacity}_ea{args.exhale_after}_snks{args.num_attn_sinks}_hopf_{not(args.no_hopf)}_type_{args.hopf_type}_len{args.len}_gbl{args.gumbel}.log"
 logging.basicConfig(filename=logfile,
                     level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
