@@ -11,7 +11,7 @@ from tqdm import tqdm
 
 import sys
 sys.path.append("/work/10198/ghadiaravi13/vista/HopFormer/MorphKV/")
-from llama_hijack_morphkv import hijack_forward
+# from llama_hijack_morphkv import hijack_forward
 
 os.environ['HF_HOME'] = "/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache"
 cache_dir = "/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache/"

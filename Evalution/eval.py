@@ -38,20 +38,31 @@ def parse_blocks(output_blocks, type):
 
 # 生成检查内容的prompt
 def create_prompts(checks, type_to_block):
+    # 优化后的具体示例
+    examples = [
+        "Example 1: Context: The district's new residential area will feature two 10-story apartment buildings, a shopping mall, and a park. The construction is set to begin at 9 AM, and the park will include a playground and jogging tracks. The plan also includes space for a small medical clinic, which will open from 10 AM to 6 PM. ### Instruction: Does this context include a medical clinic? Please answer with 'yes' or 'no' only. Answer: yes",
+        "Example 2: Context: The menu for today's lunch at the office includes grilled turkey, mashed potatoes with gravy, roasted vegetables, and pumpkin pie for dessert. The meal will be served from 12 PM to 2 PM, and there will be a vegetarian option available. The meal is planned to accommodate 50 people, and the turkey will be served with cranberry sauce. ### Instruction: Does this context include mashed potatoes? Please answer with 'yes' or 'no' only. Answer: yes",
+        "Example 3: Context: On April 15th, the weather was sunny with a high of 75°F. In the morning, I volunteered for a community cleanup from 9 AM to 12 PM. We collected trash and planted 20 new trees along the riverbank. After lunch, I helped organize the donation of clothes and food for a local shelter, where we served sandwiches and drinks. The day ended at 4 PM. ### Instruction: Does this context include long-distance running? Please answer with 'yes' or 'no' only. Answer: no"
+    ]
+    
     prompts = []
     identifiers = []
+    
     for identifier, event_desc in checks.items():
         identifier = int(identifier)  # 确保转换为整数
         if identifier in type_to_block:
-            prompt = f"Context: " + type_to_block[identifier] + f"### Instruction: Does this context include the {event_desc}? Please answer with 'yes' or 'no' only."
+            # 为模型提供指示，让它参考示例
+            prompt = "\n".join(examples) + f" \n ### Refer to the examples above for how to answer. \nContext: " + type_to_block[identifier] + f"\n\n### Instruction: Now, for the following context, does it include the {event_desc}? Please answer with 'yes' or 'no' only. Answer: "
             prompts.append(prompt)
             identifiers.append(identifier)
+    
     return prompts, identifiers
 
 # 定义评估准确性的函数
 def evaluate_accuracy(prompts, llm, sampling_params):
-    outputs = llm.generate(prompts, sampling_params)
     results = []
+    # for i in range(,len(prompts),2):
+    outputs = llm.generate(prompts, sampling_params)
     for output in outputs:
         response = output.outputs[0].text.strip().lower()
         result = 'yes' if 'yes' in response else 'no'
@@ -133,7 +144,8 @@ sampling_params = SamplingParams(temperature=0.95, top_p=0.95, max_tokens=50, se
 start_time = time.time()
 
 # Initialize the LLM with the specified model and configuration
-llm = LLM(model="meta-llama/Meta-Llama-3.1-8B-Instruct", tensor_parallel_size=args.gpu)
+# llm = LLM(model="meta-llama/Llama-3.1-8B-Instruct", tensor_parallel_size=args.gpu)
+llm = LLM(model="/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659", tensor_parallel_size=args.gpu)
 
 # Evaluate the accuracy for each set of prompts
 results_once = evaluate_accuracy(prompts_once, llm, sampling_params)
