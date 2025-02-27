@@ -16,7 +16,7 @@ hid_dim_dict = {"llama3.1-8b-instruct": 128, "phi4": 128, "mistral": 128, "qwen2
 def parse(args,dataset="NA"):
     print(dataset)
     model = args.model
-    files = sorted(os.listdir(f"preds_greedy/{model}/"),key=lambda x: "hopf_False" not in x)
+    files = sorted(os.listdir(f"preds_rerun_new/{model}/"),key=lambda x: "hopf_False" not in x)
     if args.e:
         files = sorted(os.listdir(f"pred_e/{model}/"),key=lambda x: "hopf_False" not in x)
     data_list = [dataset]
@@ -32,8 +32,8 @@ def parse(args,dataset="NA"):
                     logfile = open(f"pred_e/{model}/"+file,"r")
                     res = open(f"pred_e/{model}/"+file[:-3]+"jsonl","r").readlines()
                 else:
-                    logfile = open(f"preds_greedy/{model}/"+file,"r")
-                    res = open(f"preds_greedy/{model}/"+file[:-3]+"jsonl","r").readlines()
+                    logfile = open(f"preds_rerun_new/{model}/"+file,"r")
+                    res = open(f"preds_rerun_new/{model}/"+file[:-3]+"jsonl","r").readlines()
                 last_time = 0
                 run_name = file.split("/")[-1][:-4]
                 
@@ -134,19 +134,19 @@ def main():
             print(f"Successfully parsed logs")
         f.close()
     else:
-        with open(f"preds_greedy/{args.model}/{args.dataset}_parsed_log_data.json","w") as f:
+        with open(f"preds_rerun_new/{args.model}/{args.dataset}_parsed_log_data.json","w") as f:
             json.dump(data,f)
             try:
-                with pd.ExcelWriter(f"preds_greedy/{args.dataset}_parsed_log_data.xlsx",mode='a',if_sheet_exists='replace') as writer:
+                with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_parsed_log_data.xlsx",mode='a',if_sheet_exists='replace') as writer:
                     df.to_excel(writer,sheet_name=args.model)
             except FileNotFoundError:
-                with pd.ExcelWriter(f"preds_greedy/{args.dataset}_parsed_log_data.xlsx",mode='w') as writer:
+                with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_parsed_log_data.xlsx",mode='w') as writer:
                     df.to_excel(writer,sheet_name=args.model)
             try:
-                with pd.ExcelWriter(f"preds_greedy/{args.dataset}_cache_data.xlsx",mode='a',if_sheet_exists='replace') as writer:
+                with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_cache_data.xlsx",mode='a',if_sheet_exists='replace') as writer:
                     cache_data.to_excel(writer,sheet_name=args.model)
             except FileNotFoundError:
-                with pd.ExcelWriter(f"preds_greedy/{args.dataset}_cache_data.xlsx",mode='w') as writer:
+                with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_cache_data.xlsx",mode='w') as writer:
                     cache_data.to_excel(writer,sheet_name=args.model)
             print(f"Successfully parsed logs")
         f.close()
