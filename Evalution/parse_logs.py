@@ -115,6 +115,11 @@ def main():
     for c in df.columns:
         if "total_cache" in c:
             cache_data.loc[c[0]][args.model] = sum(df[c])
+    
+    time_data = pd.DataFrame(index=configs,columns=data_names)
+    for c in df.columns:
+        if "gen_time(s)" in c:
+            time_data.loc[c[0]][args.model] = sum(df[c][1:])
 
     if args.e:
         with open(f"pred_e/{args.model}/{args.dataset}_parsed_log_data.json","w") as f:
@@ -148,6 +153,15 @@ def main():
             except FileNotFoundError:
                 with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_cache_data.xlsx",mode='w') as writer:
                     cache_data.to_excel(writer,sheet_name=args.model)
+            
+            try:
+                with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_time_data.xlsx",mode='a',if_sheet_exists='replace') as writer:
+                    time_data.to_excel(writer,sheet_name=args.model)
+            except FileNotFoundError:
+                with pd.ExcelWriter(f"preds_rerun_new/{args.dataset}_time_data.xlsx",mode='w') as writer:
+                    time_data.to_excel(writer,sheet_name=args.model)
+
+
             print(f"Successfully parsed logs")
         f.close()
     # except Exception as e:
