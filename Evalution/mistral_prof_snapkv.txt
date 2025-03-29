@@ -1,0 +1,3010 @@
+Hopformer is: None
+Offloaded Cache....
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash SnapKV Init Segment: 0.021 ms
+Flash SnapKV evict Segment: 1.052 ms
+Flash Attention: 2.005 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.982 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.835 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.841 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.851 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.846 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.864 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.854 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.864 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.859 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.832 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.849 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.840 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.856 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.854 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.842 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.839 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.859 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.846 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.854 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.856 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.863 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.838 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.832 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.838 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.840 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.872 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.829 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.839 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.827 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.836 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.843 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.822 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.845 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.867 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.817 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.859 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.848 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.841 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.841 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.838 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.834 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.833 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.838 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.878 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.816 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.851 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.857 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.826 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.849 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.840 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.827 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.814 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.828 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.832 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.863 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.821 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.844 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.846 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.834 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.854 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.863 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.846 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.844 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.834 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.838 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.840 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.851 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.857 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.843 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.834 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.867 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.848 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.862 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.864 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.844 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.866 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.830 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.865 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.823 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.845 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.857 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.833 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.827 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.851 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.848 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.866 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.841 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.828 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.865 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.872 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.831 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.823 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.841 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.857 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.862 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.848 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.841 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.848 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.837 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.856 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.837 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.838 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.862 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.844 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.853 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.823 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.864 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.866 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.859 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.827 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.864 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.844 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.832 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.862 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.836 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.840 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.854 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.832 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.828 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.831 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.852 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.833 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.835 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.865 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.039 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.975 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.936 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.957 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.934 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.857 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.881 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.867 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.941 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.848 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.868 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.856 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.866 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.930 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 2.416 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.927 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.863 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.939 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.881 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.854 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.922 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.856 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.922 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.924 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.826 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.881 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.990 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.971 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.957 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.935 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.961 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.958 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.957 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.965 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.968 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.957 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.950 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.943 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.935 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.924 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.948 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.961 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.942 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.937 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.934 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.930 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.924 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.927 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.945 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.858 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.938 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.935 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.937 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.936 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.941 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.932 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.927 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.940 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.937 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.878 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.942 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.934 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.930 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.939 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.939 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.944 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.881 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.942 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.936 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.866 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.927 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.938 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.872 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.867 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.922 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.954 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.940 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.944 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.881 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.876 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.956 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.936 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.847 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.849 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.925 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.860 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.881 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.877 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.866 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.944 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.855 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.878 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.867 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.907 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.878 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.913 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.950 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.949 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.869 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.951 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.920 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.922 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.930 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.910 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.859 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.908 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.901 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.928 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.919 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.927 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.924 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.870 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.926 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.874 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.903 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.922 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.948 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.898 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.875 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.912 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.864 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.900 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.915 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.918 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.892 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.888 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.887 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.899 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.882 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.891 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.904 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.929 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.895 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.879 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.934 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.861 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.872 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.880 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.873 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.886 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.902 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.894 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.893 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.878 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.878 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.906 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.914 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.917 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.871 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.923 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.911 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.897 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.916 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.896 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.931 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.885 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.905 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.883 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.884 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.921 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.890 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.909 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.933 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 0.889 ms
+........Input size: 683 KV Cache size: {'key': 1682, 'value': 1682, 'attn_wts': 0, 'len': 1682}...........GPU Max Reserved: 15.091105792 GB
+
+Inference time: 44.82 seconds
+
+Saved result to preds_rerun_new/mistral_fullattn_prof.json

@@ -1,0 +1,7733 @@
+Hopformer is: {'window_size': 200, 'sim_threshold': 20, 'softmax': 'normal', 'num_attn_sinks': 0, 'hopf_type': 'max_fused_prof_qcache', 'exhale_after': 1.0, 'max_capacity': 750}
+Offloaded Cache....
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.264 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.118 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.030 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.997 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.027 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.020 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.990 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.065 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.026 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.054 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.036 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.006 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.056 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.055 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.037 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.026 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.048 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.031 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.050 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.027 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.975 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.067 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.007 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.017 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.047 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.031 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.016 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.038 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.016 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.078 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.028 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.049 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.064 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.052 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.013 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.043 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.070 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.012 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.036 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.025 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.989 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.994 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.991 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.054 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.024 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.031 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.015 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.016 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.035 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.010 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.016 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.969 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.035 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.996 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.065 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.012 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.978 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.034 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.065 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.003 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.013 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.041 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.020 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.070 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.076 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 1.017 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.998 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Attention: 0.989 ms
+
+- - - - - - - - - - - - - - - - - - - 
+
+Flash Hopf Partial Attn wts Segment: 0.106 ms
+Flash Hopformer Cache Segment: 0.004 ms
+Flash Attention: 1.166 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.308 ms
+Hopformer Mask Segment: 0.684 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.724 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.626 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.529 ms
+Hopf 2: : 0.200 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.628 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.576 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.560 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.264 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.551 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.610 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.617 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.616 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.526 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.613 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.546 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.620 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.560 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.574 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.265 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.171 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.568 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.622 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.520 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.613 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.520 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.556 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.553 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.560 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.567 ms
+Hopf 2: : 0.172 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.530 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.015 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.635 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.610 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.613 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.542 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.635 ms
+Hopf 2: : 0.172 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.531 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.562 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.611 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.617 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.165 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.614 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.549 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.172 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.610 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.565 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.574 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.566 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.262 ms
+Hopformer Mask Segment: 0.611 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.554 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.613 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.533 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.170 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.546 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.578 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.256 ms
+Hopformer Mask Segment: 0.598 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.556 ms
+Hopf 2: : 0.166 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.580 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.574 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.611 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.553 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.528 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.537 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.592 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.572 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.553 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.572 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.615 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.516 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.265 ms
+Hopformer Mask Segment: 0.601 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.561 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.607 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.259 ms
+Hopformer Mask Segment: 0.600 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.535 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.561 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.572 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.565 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.565 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.217 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.326 ms
+Hopformer Mask Segment: 0.746 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.888 ms
+Hopf 2: : 0.206 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.713 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.691 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.639 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.622 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.635 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.307 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.640 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.660 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.700 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.714 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.662 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.216 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.701 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.700 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.310 ms
+Hopformer Mask Segment: 0.684 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.709 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.675 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.679 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.676 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.616 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.679 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.689 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.726 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.731 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.734 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.689 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.686 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.653 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.202 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.678 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.682 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.014 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.669 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.678 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.688 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.657 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.673 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.690 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.683 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.720 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.307 ms
+Hopformer Mask Segment: 0.685 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.698 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.716 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.685 ms
+Hopf 2: : 0.217 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.700 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.748 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.682 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.680 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.671 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.715 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.669 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.663 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.682 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.682 ms
+Hopf 2: : 0.206 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.683 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.687 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.710 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.680 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.683 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.607 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.667 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.703 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.196 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.315 ms
+Hopformer Mask Segment: 0.710 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.724 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.627 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.660 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.592 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.673 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.664 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.723 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.666 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.675 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.684 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.631 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.687 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.642 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.665 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.602 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.676 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.319 ms
+Hopformer Mask Segment: 0.691 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.684 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.688 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.311 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.693 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.678 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.620 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.556 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.648 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.724 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.624 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.662 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.684 ms
+Hopf 2: : 0.200 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.689 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.610 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.673 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.657 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.665 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.593 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.679 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.666 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.716 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.693 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.624 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.624 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.676 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.204 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.714 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.705 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.704 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.648 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.222 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.318 ms
+Hopformer Mask Segment: 0.741 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.882 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.681 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.688 ms
+Hopf 2: : 0.200 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.687 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.703 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.640 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.202 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.691 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.758 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.683 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.702 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.675 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.679 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.700 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.685 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.695 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.697 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.674 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.693 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.306 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.680 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.685 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.665 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.204 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.700 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.671 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.669 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.204 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.679 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.698 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.583 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.676 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.662 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.309 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.644 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.657 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.308 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.685 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.698 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.622 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.601 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.657 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.564 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.588 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.643 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.596 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.671 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.307 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.604 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.307 ms
+Hopformer Mask Segment: 0.700 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.715 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.684 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.688 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.662 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.683 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.711 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.669 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.596 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.698 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.567 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.639 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.667 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.626 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.315 ms
+Hopformer Mask Segment: 0.686 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.682 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.590 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.683 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.648 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.568 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.628 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.588 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.711 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.685 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.588 ms
+Hopf 2: : 0.208 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.684 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.628 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.679 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.202 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.669 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.628 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.660 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.602 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.644 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.689 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.585 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.674 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.590 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.583 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.639 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.683 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.688 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.685 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.665 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.200 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.647 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.666 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.594 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.693 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.657 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.624 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.715 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.604 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.622 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.675 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.663 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.631 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.683 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.307 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.627 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.642 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.601 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.608 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.543 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.635 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.682 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.306 ms
+Hopformer Mask Segment: 0.679 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.611 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.640 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.611 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.578 ms
+Hopf 2: : 0.200 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.694 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.585 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.309 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.601 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.622 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.708 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.648 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.626 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.676 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.644 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.590 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.678 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.532 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.682 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.647 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.697 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.596 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.585 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.558 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.622 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.667 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.171 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.591 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.583 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.309 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.574 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.639 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.306 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.696 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.627 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.579 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.564 ms
+Hopf 2: : 0.170 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.567 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.644 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.307 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.005 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.657 ms
+Hopf 2: : 0.204 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.644 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.704 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.678 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.624 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.672 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.626 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.639 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.643 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.628 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.016 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.301 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.689 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.206 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.305 ms
+Hopformer Mask Segment: 0.703 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.680 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.589 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.672 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.602 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.611 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.557 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.688 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.705 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.207 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.680 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.653 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.668 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.660 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.713 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.644 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.642 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.686 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.572 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.300 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.647 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.613 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.533 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.008 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.679 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.648 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.555 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.620 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.626 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.568 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.593 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.665 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.620 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.602 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.701 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.672 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.633 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.658 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.580 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.643 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.304 ms
+Hopformer Mask Segment: 0.697 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.685 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.624 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.561 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.678 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.580 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.611 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.666 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.669 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.617 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.607 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.673 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.566 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.627 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.560 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.663 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.598 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.683 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.670 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.677 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.642 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.654 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.693 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.635 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.647 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.648 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.592 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.580 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.659 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.624 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.579 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.697 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.196 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.631 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.574 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.635 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.583 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.571 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.605 ms
+Hopf 2: : 0.209 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.653 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.614 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.566 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.613 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.515 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.575 ms
+Hopf 2: : 0.199 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.651 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.611 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.289 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.610 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.615 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.556 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.562 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.674 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.663 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.656 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.647 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.265 ms
+Hopformer Mask Segment: 0.610 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.544 ms
+Hopf 2: : 0.201 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.649 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.169 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.609 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.516 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.617 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.522 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.601 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.626 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.575 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.198 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.565 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.303 ms
+Hopformer Mask Segment: 0.676 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.653 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.591 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.590 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.601 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.204 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.617 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.264 ms
+Hopformer Mask Segment: 0.623 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.563 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.616 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.668 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.173 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.651 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.632 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.607 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.561 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.560 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.565 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.657 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.566 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.662 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.641 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.592 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.607 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.591 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.590 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.279 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.587 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.620 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.614 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.566 ms
+Hopf 2: : 0.197 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.660 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.298 ms
+Hopformer Mask Segment: 0.671 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.610 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.678 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.625 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.650 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.622 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.554 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.593 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.569 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.575 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.607 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.634 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.648 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.588 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.640 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.175 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.624 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.615 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.623 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.614 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.577 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.624 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.578 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.663 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.674 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.661 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.194 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.677 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.642 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.265 ms
+Hopformer Mask Segment: 0.614 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.550 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.597 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.669 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.628 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.650 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.652 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.628 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.637 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.264 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.600 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.641 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.196 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.663 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.653 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.176 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.550 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.562 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.642 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.636 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.295 ms
+Hopformer Mask Segment: 0.664 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.167 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.629 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.567 ms
+Hopf 2: : 0.174 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.596 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.622 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.555 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.649 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.640 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.584 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.620 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.519 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.643 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.604 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.670 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.621 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.590 ms
+Hopf 2: : 0.189 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.661 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.594 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.630 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.655 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.626 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.559 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.291 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.655 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.005 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.631 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.297 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.642 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.281 ms
+Hopformer Mask Segment: 0.624 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.548 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.615 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.573 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.637 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.586 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.276 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.581 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.644 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.606 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.631 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.588 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.290 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.610 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.617 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.551 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.312 ms
+Hopformer Mask Segment: 0.687 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.622 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.294 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.640 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.277 ms
+Hopformer Mask Segment: 0.632 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.619 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.263 ms
+Hopformer Mask Segment: 0.606 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.531 ms
+Hopf 2: : 0.185 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.571 ms
+Hopf 2: : 0.170 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.598 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.511 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.287 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.262 ms
+Hopformer Mask Segment: 0.608 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.582 ms
+Hopf 2: : 0.193 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.280 ms
+Hopformer Mask Segment: 0.659 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.190 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.608 ms
+Hopf 2: : 0.187 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.274 ms
+Hopformer Mask Segment: 0.630 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.599 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.296 ms
+Hopformer Mask Segment: 0.658 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.186 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.299 ms
+Hopformer Mask Segment: 0.667 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.622 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.594 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.302 ms
+Hopformer Mask Segment: 0.681 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.647 ms
+Hopf 2: : 0.191 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.647 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.627 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.272 ms
+Hopformer Mask Segment: 0.625 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.565 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.285 ms
+Hopformer Mask Segment: 0.638 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.614 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.267 ms
+Hopformer Mask Segment: 0.610 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.557 ms
+Hopf 2: : 0.181 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.275 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.621 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.271 ms
+Hopformer Mask Segment: 0.635 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.570 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.619 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.571 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.288 ms
+Hopformer Mask Segment: 0.646 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.603 ms
+Hopf 2: : 0.195 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.666 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.618 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.284 ms
+Hopformer Mask Segment: 0.654 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.612 ms
+Hopf 2: : 0.188 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.656 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.645 ms
+Hopf 2: : 0.184 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.282 ms
+Hopformer Mask Segment: 0.645 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.629 ms
+Hopf 2: : 0.178 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.269 ms
+Hopformer Mask Segment: 0.616 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.574 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.292 ms
+Hopformer Mask Segment: 0.665 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.638 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.283 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.609 ms
+Hopf 2: : 0.182 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.278 ms
+Hopformer Mask Segment: 0.636 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.595 ms
+Hopf 2: : 0.177 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.270 ms
+Hopformer Mask Segment: 0.612 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.520 ms
+Hopf 2: : 0.180 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.286 ms
+Hopformer Mask Segment: 0.639 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.613 ms
+Hopf 2: : 0.183 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.293 ms
+Hopformer Mask Segment: 0.652 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.646 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.633 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.566 ms
+Hopf 2: : 0.170 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.268 ms
+Hopformer Mask Segment: 0.604 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.557 ms
+Hopf 2: : 0.179 ms
+Hopf 3: : 0.006 ms
+Hopf 4: : 0.266 ms
+Hopformer Mask Segment: 0.618 ms
+Hopformer Cache Segment: 0.007 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.539 ms
+Hopf 2: : 0.192 ms
+Hopf 3: : 0.007 ms
+Hopf 4: : 0.273 ms
+Hopformer Mask Segment: 0.634 ms
+Hopformer Cache Segment: 0.006 ms
+Total Attention
+- - - - - - - - - - - - - - - - - - - 
+: 1.593 ms
+........Input size: 683 KV Cache size: {'key': 751, 'value': 751, 'attn_wts': 0, 'len': 1682}...........GPU Max Reserved: 15.003025408 GB
+
+Inference time: 65.70 seconds
+
+Saved result to preds_rerun_new/Mistral_mkv_prof_qcache.json

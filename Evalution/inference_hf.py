@@ -130,6 +130,8 @@ model = AutoModelForCausalLM.from_pretrained(model_path,
                                             torch_dtype=torch.bfloat16,
                                             cache_dir=cache_dir).to(device)
 
+model = torch.compile(model)
+
 inputs_used = []
 results = []
 
@@ -170,6 +172,7 @@ for input_data in tqdm(inputs):
         
         inputs_used.append(input_data)
         results.append(process_output( input_data['prefix']+ input_data['response']))
+    if "prof" in args.hopf_type: break
 
 process_and_save_results(inputs_used, results, args.output_file)
 print(f"\nSaved result to {args.output_file}")

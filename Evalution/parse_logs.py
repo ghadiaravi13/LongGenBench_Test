@@ -46,6 +46,7 @@ def parse(args,dataset="NA"):
                 #     data = dict()
                 data[run_name] = dict()
                 data[run_name]['gen_time(s)'] = []
+                data[run_name]['time_per_token'] = []
                 data[run_name]['inp_size'] = [] #if "hopf_False" in file else inp_size
                 data[run_name]['out_size'] = [] #if "hopf_False" in file else out_size
                 data[run_name]['resp_len'] = []
@@ -65,6 +66,7 @@ def parse(args,dataset="NA"):
                             data[run_name]['resp_len'].append(int(l.split("len': ")[1].split("}")[0]))
                         except IndexError:
                             data[run_name]['resp_len'].append(data[run_name]['out_size'][-1])
+                        data[run_name]['time_per_token'].append(data[run_name]['gen_time(s)'][-1] / data[run_name]['resp_len'][-1])
                         data[run_name]['KV_size'].append(4 * hid_dim_per_head * n_key_heads * n_layers * int(l.split("key': ")[1].split(",")[0]) / 1000000)
                         # if "hopf_False" in file:
                         #     data[run_name]['attn_size'].append(4 * n_attn_heads * n_layers * data[run_name]['out_size'][i] * int(l.split("attn_wts': ")[1].split("}")[0]) / 1000000)
@@ -118,7 +120,7 @@ def main():
     
     time_data = pd.DataFrame(index=configs,columns=data_names)
     for c in df.columns:
-        if "gen_time(s)" in c:
+        if "time_per_token" in c:
             time_data.loc[c[0]][args.model] = sum(df[c][1:])
 
     if args.e:
