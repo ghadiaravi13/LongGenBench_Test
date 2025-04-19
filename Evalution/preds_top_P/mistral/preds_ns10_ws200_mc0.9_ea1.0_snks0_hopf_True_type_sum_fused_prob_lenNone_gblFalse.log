@@ -1,0 +1,70 @@
+2025-04-14 20:59:31,135 - INFO - ........Input size: 683 KV Cache size: {'key': tensor(130989, device='cuda:0'), 'value': tensor(130989, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.085896192 GB
+
+2025-04-14 21:08:03,260 - INFO - ........Input size: 685 KV Cache size: {'key': tensor(126785, device='cuda:0'), 'value': tensor(126785, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.085896192 GB
+
+2025-04-14 21:16:23,404 - INFO - ........Input size: 686 KV Cache size: {'key': tensor(94520, device='cuda:0'), 'value': tensor(94520, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.085896192 GB
+
+2025-04-14 21:24:55,904 - INFO - ........Input size: 690 KV Cache size: {'key': tensor(102392, device='cuda:0'), 'value': tensor(102392, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.085896192 GB
+
+2025-04-14 21:33:19,378 - INFO - ........Input size: 685 KV Cache size: {'key': tensor(128414, device='cuda:0'), 'value': tensor(128414, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.085896192 GB
+
+2025-04-14 21:41:54,488 - INFO - ........Input size: 689 KV Cache size: {'key': tensor(95007, device='cuda:0'), 'value': tensor(95007, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.085896192 GB
+
+2025-04-14 21:50:10,991 - INFO - ........Input size: 687 KV Cache size: {'key': tensor(97092, device='cuda:0'), 'value': tensor(97092, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.13622784 GB
+
+2025-04-14 21:58:44,562 - INFO - ........Input size: 683 KV Cache size: {'key': tensor(122482, device='cuda:0'), 'value': tensor(122482, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.13622784 GB
+
+2025-04-14 22:07:09,930 - INFO - ........Input size: 686 KV Cache size: {'key': tensor(125040, device='cuda:0'), 'value': tensor(125040, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.13622784 GB
+
+2025-04-14 22:15:29,631 - INFO - ........Input size: 686 KV Cache size: {'key': tensor(104138, device='cuda:0'), 'value': tensor(104138, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 22:24:19,564 - INFO - ........Input size: 505 KV Cache size: {'key': tensor(109519, device='cuda:0'), 'value': tensor(109519, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 22:33:03,765 - INFO - ........Input size: 502 KV Cache size: {'key': tensor(109367, device='cuda:0'), 'value': tensor(109367, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 22:41:38,053 - INFO - ........Input size: 510 KV Cache size: {'key': tensor(88833, device='cuda:0'), 'value': tensor(88833, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 22:50:12,172 - INFO - ........Input size: 502 KV Cache size: {'key': tensor(107789, device='cuda:0'), 'value': tensor(107789, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 22:58:46,368 - INFO - ........Input size: 502 KV Cache size: {'key': tensor(77844, device='cuda:0'), 'value': tensor(77844, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 23:07:10,057 - INFO - ........Input size: 503 KV Cache size: {'key': tensor(119520, device='cuda:0'), 'value': tensor(119520, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 23:15:57,966 - INFO - ........Input size: 503 KV Cache size: {'key': tensor(115608, device='cuda:0'), 'value': tensor(115608, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 23:24:29,040 - INFO - ........Input size: 503 KV Cache size: {'key': tensor(126943, device='cuda:0'), 'value': tensor(126943, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 23:33:09,009 - INFO - ........Input size: 506 KV Cache size: {'key': tensor(113460, device='cuda:0'), 'value': tensor(113460, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 23:41:47,134 - INFO - ........Input size: 505 KV Cache size: {'key': tensor(103184, device='cuda:0'), 'value': tensor(103184, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-14 23:50:36,161 - INFO - ........Input size: 906 KV Cache size: {'key': tensor(117253, device='cuda:0'), 'value': tensor(117253, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 00:09:38,115 - INFO - ........Input size: 903 KV Cache size: {'key': tensor(168736, device='cuda:0'), 'value': tensor(168736, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 00:34:42,138 - INFO - ........Input size: 912 KV Cache size: {'key': tensor(192495, device='cuda:0'), 'value': tensor(192495, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 00:43:30,273 - INFO - ........Input size: 905 KV Cache size: {'key': tensor(82447, device='cuda:0'), 'value': tensor(82447, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 00:52:15,453 - INFO - ........Input size: 904 KV Cache size: {'key': tensor(94458, device='cuda:0'), 'value': tensor(94458, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 01:05:21,308 - INFO - ........Input size: 914 KV Cache size: {'key': tensor(137969, device='cuda:0'), 'value': tensor(137969, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 01:14:14,019 - INFO - ........Input size: 903 KV Cache size: {'key': tensor(130571, device='cuda:0'), 'value': tensor(130571, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 01:23:07,114 - INFO - ........Input size: 924 KV Cache size: {'key': tensor(71337, device='cuda:0'), 'value': tensor(71337, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 01:33:09,257 - INFO - ........Input size: 911 KV Cache size: {'key': tensor(131228, device='cuda:0'), 'value': tensor(131228, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 01:52:29,613 - INFO - ........Input size: 913 KV Cache size: {'key': tensor(165852, device='cuda:0'), 'value': tensor(165852, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.276737024 GB
+
+2025-04-15 02:18:32,414 - INFO - ........Input size: 576 KV Cache size: {'key': tensor(200595, device='cuda:0'), 'value': tensor(200595, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.287222784 GB
+
+2025-04-15 02:45:30,981 - INFO - ........Input size: 577 KV Cache size: {'key': tensor(201464, device='cuda:0'), 'value': tensor(201464, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.287222784 GB
+
+2025-04-15 03:11:47,967 - INFO - ........Input size: 582 KV Cache size: {'key': tensor(201753, device='cuda:0'), 'value': tensor(201753, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.287222784 GB
+
+2025-04-15 03:19:53,501 - INFO - ........Input size: 582 KV Cache size: {'key': tensor(105975, device='cuda:0'), 'value': tensor(105975, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.287222784 GB
+
+2025-04-15 03:46:12,717 - INFO - ........Input size: 578 KV Cache size: {'key': tensor(199479, device='cuda:0'), 'value': tensor(199479, device='cuda:0'), 'attn_wts': 0, 'len': 8000}...........GPU Max Reserved: 98.287222784 GB
+

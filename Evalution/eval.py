@@ -145,7 +145,7 @@ start_time = time.time()
 
 # Initialize the LLM with the specified model and configuration
 # llm = LLM(model="meta-llama/Llama-3.1-8B-Instruct", tensor_parallel_size=args.gpu)
-llm = LLM(model="/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659", tensor_parallel_size=args.gpu)
+llm = LLM(model="/work/10198/ghadiaravi13/ls6/HopFormer/HF_Llama3/HF_cache/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659", tensor_parallel_size=args.gpu, dtype="float16", quantization=None)
 
 # Evaluate the accuracy for each set of prompts
 results_once = evaluate_accuracy(prompts_once, llm, sampling_params)

@@ -22,7 +22,7 @@ def parse_args():
     parser.add_argument('--hopf_type', type=str, default="max_fused")
     parser.add_argument('--len', "-l", type=int, default=None)
     parser.add_argument("--window_size", "-ws", type=int, default=3, help="Window size for HopFormer")
-    parser.add_argument("--max_capacity", "-mc", type=int, default=100, help="Window size for HopFormer")
+    parser.add_argument("--max_capacity", "-mc", type=float, default=100, help="Window size for HopFormer")
     parser.add_argument("--exhale_after", "-ea", type=float, default=1.0, help="Exhale after exceeding this times the KV limit")
     parser.add_argument("--sim_threshold", "-st", type=float, default=20.0, help="Similarity threshold for HopFormer")
     parser.add_argument("--num_attn_sinks", "-snks", type=float, default=0, help="Attention sinks (streaming LLM)")
@@ -30,6 +30,7 @@ def parse_args():
     parser.add_argument("--no_hopf", action='store_true', help="Disable HopFormer")  # Updated line
     parser.add_argument("--save_wts", action='store_true', help="Save attn wts")  # Updated line
     parser.add_argument("--num_samples", "-ns", type=int, default=10, help="Num of samples to eval on")
+    parser.add_argument("--start_layer", "-sl", type=int, default=-1, help="Apply MorphKV only from this layer onward")
     parser.add_argument("--hijack", action='store_true', help="Hijack Flash Attn with MorphKV")  # Updated line
 
     parser.add_argument('--max_length', type=int, default=8000, help='Maximum length of generation.')
@@ -107,7 +108,8 @@ config.hopformer = None if args.no_hopf or "snapkv" in args.hopf_type else {
     'num_attn_sinks': int(args.num_attn_sinks),
     'hopf_type': args.hopf_type,
     'exhale_after': args.exhale_after,
-    'max_capacity': args.max_capacity
+    'max_capacity': args.max_capacity,
+    'start_layer': args.start_layer
 }
 print(f"Hopformer is: {config.hopformer}")
 if "snapkv" in args.hopf_type:
@@ -130,7 +132,7 @@ model = AutoModelForCausalLM.from_pretrained(model_path,
                                             torch_dtype=torch.bfloat16,
                                             cache_dir=cache_dir).to(device)
 
-model = torch.compile(model)
+# model = torch.compile(model)
 
 inputs_used = []
 results = []
